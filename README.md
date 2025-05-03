@@ -3,8 +3,6 @@
 </p>
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Mohammed Anas A R</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Mohammed Anas A R -->
 
 ### 👨🏻‍💻 &nbsp;About Me
