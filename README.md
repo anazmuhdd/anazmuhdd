@@ -1,4 +1,4 @@
-![Anas Mohammed banner Banner]([github-header-image.png])
+![Anas Mohammed banner Banner]([https://github.com/anazmuhdd/anazmuhdd/blob/a3fe0e38e814b27a991f9e8b18e15eb79cd8a13b/github-header-image.png])
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Mohammed Anas A R</h2>
 
